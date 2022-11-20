@@ -1,0 +1,132 @@
+body {
+  font-family: "Inika", serif;
+}
+.h1 {
+  margin: 25px 0px;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "inika";
+  margin: 72px 0px;
+  box-sizing: border-box;
+}
+.h2 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 74px;
+  margin-bottom: 52px;
+}
+.line {
+  border-bottom: 5px solid #3e45e8;
+  width: 402px;
+  margin: 0px auto;
+}
+.header {
+  height: 110px;
+  text-align: center;
+  color: #3e45e8;
+  font-size: 48px;
+  font-family: "M PLUS 1", sans-serif;
+  font-weight: 400;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.header-span {
+  color: #e8c23e;
+}
+
+.banner {
+  background-image: url("../style/img/background.png");
+  height: 803px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 195px;
+  padding-left: 80px;
+  box-sizing: border-box;
+}
+
+.content {
+  font-size: 48px;
+  color: #ffffff;
+  font-family: Inika;
+  font-weight: 700;
+  background-image: url(./img/flag.png);
+  height: 272px;
+  background-repeat: no-repeat;
+  width: 60%;
+  padding-left: 56px;
+  box-sizing: border-box;
+  padding-top: 1%;
+}
+
+.main {
+  padding: 0px 80px;
+}
+
+.card {
+  width: 30%;
+  color: #1e8df2;
+  font-weight: 700;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 37px;
+  overflow: hidden;
+  box-shadow: 0px 4px 6px black;
+}
+
+.card_image {
+  width: 100%;
+}
+
+.card_margin {
+  margin: 0 4%;
+}
+
+.card_title {
+  font-size: 24px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.card_text {
+  font-size: 20px;
+  font-weight: 400;
+  color: #e8c23e;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.body_image {
+  text-align: center;
+}
+
+.buttom{
+    margin-left: 37%;
+}
+.buttom_text{
+    width: 591px;
+    height:121px;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: 'Inika';
+    font-weight: 700;
+    background-color: #2A61F0;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 21px;
+    
+}
+.footer{
+    background-color: #2F4A4B;
+    height: 320px;
+
+}
+.contact{
+    font-family: 'Marcellus SC';
+    font-size: 36px;
+    font-weight: 400;
+    color: #A89D9D;
+    padding-top: 21px;
+}
